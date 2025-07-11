@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5001/api'; // Add the /api prefix here
+const API_URL = 'https://store-rating-app-7fcn.onrender.com/api'; // Add the /api prefix here
 
 // API call to register a new user
 export const registerUser = (userData) => {

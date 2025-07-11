@@ -85,7 +85,7 @@ npm start
 
 #### Make sure `frontend/package.json` includes:
 ```json
-"proxy": "http://localhost:5001"
+"proxy": "https://store-rating-app-7fcn.onrender.com"
 ```
 
 ---
